@@ -5,8 +5,8 @@
 <h1>✨ Features</h1>
 <p>✔️ Enter your name and get a personalized birthday wish 🎁</p>
 <p>✔️ Beautiful UI with animations 🎊</p>
-
-
-
-https://github.com/user-attachments/assets/81388edd-59e8-434c-8998-84e6a40a58a1
+<br></br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/12b97c2c-14a5-4152-a72c-d85f2762cd20" alt="birthday wisher">
+</p>
 
